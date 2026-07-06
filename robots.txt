@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grantmillerlab.github.io/sitemap.xml
